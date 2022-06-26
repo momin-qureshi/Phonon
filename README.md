@@ -10,5 +10,6 @@ A lightweight image viewer that will provide all the basic functions that a norm
 *	Image Library view i.e. open a specific directory.
 *	Save images in a specific format.
 * Preview images on pressing space showing only image.
-*	Add text and frames to images.
-*	Slideshow and organize into Albums.
+
+## Preview
+![image](https://user-images.githubusercontent.com/33392832/175812868-87b6b924-fb71-4a9c-9b03-3e0c1eb60576.png)
